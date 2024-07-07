@@ -6,3 +6,8 @@
 - 📫 How to reach me: Send me an email!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a first year AI student
+
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@plushieorgans/30-nites-of-code)  
+  ![@plushieorgans #30NitesOfCode](https://www.codedex.io/api/petStatus?user=plushieorgans)**
