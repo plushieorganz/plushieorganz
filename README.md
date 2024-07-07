@@ -9,5 +9,5 @@
 
 
 ## #30NitesOfCode:
-  [Check out my progresson 30 Nites Of Code!](https://www.codedex.io/@plushieorgans/30-nites-of-code)  
+  [Check out my progress on 30 Nites Of Code!](https://www.codedex.io/@plushieorgans/30-nites-of-code)  
   ![@plushieorgans #30NitesOfCode](https://www.codedex.io/api/petStatus?user=plushieorgans)
