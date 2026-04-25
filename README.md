@@ -1,11 +1,51 @@
-## Hello! ^_^
+# Zulfa Al Balushi
 
-- 🌱 I’m currently learning full stack web development, and machine learning. I do game dev on the side for fun :D
-- 👯 I’m looking to collaborate on.. (saving this for when I'm better at using github)
-- 🤔 I’m looking for help with finding learning resources on all the different areas I'm learning, and navigating github
-- 📫 How to reach me: Send me an email!
+Artificial Intelligence student with a focus on Machine Learning and Neural Networks.  
+Interested in building intelligent systems and applying AI to real-world problems.
 
+---
 
-## #30NitesOfCode:
-  [Check out my progress on 30 Nites Of Code!](https://www.codedex.io/@plushieorgans/30-nites-of-code)  
-  ![@plushieorgans #30NitesOfCode](https://www.codedex.io/api/petStatus?user=plushieorgans)
+## About Me
+- BSc Artificial Intelligence (Minor in Business) – German University of Technology  
+- Focused on Machine Learning, Computer Vision, and Optimization Techniques  
+- Experience with Neural Networks, Spiking Neural Networks (SNN), and Ant Colony Optimization (ACO)  
+- Currently seeking internship opportunities in AI / Machine Learning  
+
+---
+
+## Technical Skills
+
+**Programming:**  
+Python, C++, JavaScript, HTML, CSS  
+
+**Machine Learning & AI:**  
+Regression, classification, neural networks, data preprocessing, feature engineering, computer vision  
+
+**Tools & Technologies:**  
+PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV, Matplotlib, Jupyter Notebook  
+
+**Other:**  
+REST APIs, Git, GitHub, React  
+
+---
+
+## Projects
+
+### Energy-Efficient Drone–Bird Classification (SNN + ACO)
+- Developed a hybrid Spiking Neural Network optimized using Ant Colony Optimization  
+- Improved recall by ~13.9% and F1-score by ~8.2% compared to baseline  
+- Focused on balancing accuracy and energy efficiency  
+
+### Real-Time Circle Detection (OpenCV)
+- Built a real-time computer vision system using OpenCV  
+- Implemented Hough Circle Transform with optimized parameters  
+- Improved detection stability using temporal constraints and smoothing  
+
+### Hollow Cinema – Web Application
+- Developed a movie web application with authentication and watchlist functionality  
+- Built using HTML, CSS, JavaScript, and React  
+
+---
+
+## Contact
+- Email: zulfam.albalushi@outlook.com  
