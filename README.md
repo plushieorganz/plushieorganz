@@ -6,7 +6,7 @@ Interested in building intelligent systems and applying AI to real-world problem
 ---
 
 ## About Me
-- BSc Artificial Intelligence (Minor in Business) – German University of Technology  
+- BSc Artificial Intelligence (Minor in Business)  
 - Focused on Machine Learning, Computer Vision, and Optimization Techniques  
 - Experience with Neural Networks, Spiking Neural Networks (SNN), and Ant Colony Optimization (ACO)  
 - Currently seeking internship opportunities in AI / Machine Learning  
